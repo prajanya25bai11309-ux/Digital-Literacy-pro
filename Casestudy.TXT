@@ -1,0 +1,18 @@
+**Part A - Case Study (Phishing Attack)**
+
+**File: casestudy.md**
+
+**Title: Phishing Scam Using Fake Internship Offers**
+
+Honestly, one of the most common scams right now is phishing, and it's getting smarter. A very real example is fake internship emails that target students like us.
+
+So here's how it usually goes. You get an email that looks completely legit-company logo, proper formatting, even a professional tone. It says you've been selected or shortlisted for a paid internship. Sounds exciting, right? Then there's a link to "apply" or "confirm your spot."
+
+Once you click it, you're taken to a website that looks almost identical to the real company's site. Now they ask you to log in using your email, or fill in personal details. Sometimes they even ask for a small "registration fee" through UPI, which makes it feel official.
+
+And that's where people get trapped.
+
+The main targets are students and freshers because we're actively looking for opportunities and tend to act fast without double-checking. The consequences can be serious-money loss, hacked accounts, or even your identity being misused for further scams.
+
+What's scary is that this isn't rare anymore. There have been multiple reports in India where fake job links and emails have led to financial fraud. It just shows how careful we actually need to be online.
+

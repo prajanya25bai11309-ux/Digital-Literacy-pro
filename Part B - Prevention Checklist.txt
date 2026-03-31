@@ -1,0 +1,22 @@
+**Part B - Prevention Checklist**
+
+**File: prevention-checklist.md**
+
+**Title: Stay Safe Online - Practical Checklist**
+
+- Always double-check the sender's email, not just the name.
+- If a link looks even slightly suspicious, don't click it.
+- Don't trust emails that create urgency like "limited time offer" or "act now."
+- Never share your passwords or OTPs, no matter how real the request looks.
+- Before applying anywhere, search the company and verify from their official website.
+- Avoid logging into accounts through links-go directly to the official site instead.
+- **UPI Safety:** Never send money for job applications, internships, or "verification fees."
+- **UPI Safety:** Always check the receiver's name before confirming any payment.
+- Keep your devices updated with basic security (antivirus, system updates).
+- If something feels off, trust your instinct and stop right there.
+
+**Report cybercrime immediately:**
+
+- National Cyber Crime Portal: [https://cybercrime.gov.in](https://cybercrime.gov.in/)
+- Helpline Number: **1930**
+
